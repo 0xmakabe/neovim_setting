@@ -2,6 +2,7 @@
 
 1. homebrewでvim, neovimをインストール
 2. > $ open -a TextEdit ~/.zshrc
+   
    で以下を追加
    > alias vi="nvim"
 3.　下記でディレクトリ作成
