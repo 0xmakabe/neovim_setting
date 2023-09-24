@@ -1,8 +1,8 @@
 # neovim_setting
 
 1. homebrewでvim, neovimをインストール
-2. $ open -a TextEdit ~/.zshrcで以下を追加
-   alias vi="nvim"
+2. > $ open -a TextEdit ~/.zshrcで以下を追加
+   > alias vi="nvim"
 3.　下記でディレクトリ作成
    > $ mkdir -p ~/.config/nvim
 4. 本リポジトリのinit.vimを配置
