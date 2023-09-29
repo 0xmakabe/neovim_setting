@@ -5,10 +5,11 @@
    
    で以下を追加
    > alias vi="nvim"
-   
+
+
 3.　下記でディレクトリ作成
    > $ mkdir -p ~/.config/nvim
-   
+
 4. 本リポジトリのinit.vimを配置
 5. > $ source ~/.zshrc
    
@@ -19,4 +20,3 @@
    * .config/、または~/.local/share/nvim/にpuluginが作成される
    * viで~/.config/nvim/init.vimを開き、「:PlugInstall」でエンター
 7. 同様の手順でその他プラグインを入れていく
-     
