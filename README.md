@@ -35,3 +35,10 @@ installationのコマンドを下記に変更する。(ターミナルで下記�
 > git clone https://tpope.io/vim/commentary.git
 
 > vim -u NONE -c "helptags commentary/doc" -c q
+
+
+* コード補完（nvmのインストールが必要。また、言語ごとに設定が必要。どの言語が対応しているかは２つ目のURL参照。）
+
+https://github.com/neoclide/coc.nvim
+
+https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions
