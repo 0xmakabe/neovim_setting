@@ -24,6 +24,7 @@
 
 * vim-commentary(コメントアウトのショートカット)
 https://github.com/tpope/vim-commentary
+
 installationのコマンドを下記に変更する。(ターミナルで下記を実行するだけで完了)
 mkdir -p ~/.config/nvim/pack/tpope/start
 cd ~/.config/nvim/pack/tpope/start
