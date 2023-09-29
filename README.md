@@ -29,6 +29,9 @@ https://github.com/tpope/vim-commentary
 installationのコマンドを下記に変更する。(ターミナルで下記を実行するだけで完了)
 
 > mkdir -p ~/.config/nvim/pack/tpope/start
+
 > cd ~/.config/nvim/pack/tpope/start
+
 > git clone https://tpope.io/vim/commentary.git
+
 > vim -u NONE -c "helptags commentary/doc" -c q
