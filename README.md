@@ -22,7 +22,7 @@
 8. 同様の手順でその他プラグインを入れていく
 
 
-* vim-commentary(コメントアウトのショートカット)
+* vim-commentary(コメントアウトのショートカット。gcでコメントアウトできる)
 
 https://github.com/tpope/vim-commentary
 
